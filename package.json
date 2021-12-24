@@ -1,0 +1,15 @@
+{
+  "name": "insoman",
+  "version": "1.0.0",
+  "description": "A CLI to parse insomnia collection to postman collection.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anwarul Islam",
+  "license": "ISC",
+  "keywords": [],
+  "bin": {
+    "insoman": "./bin/index.js"
+  }
+}
